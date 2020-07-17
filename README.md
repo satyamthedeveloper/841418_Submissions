@@ -1,7 +1,5 @@
-Solutions:
+Screenshots:
 
-Java:
+![alt text](https://github.com/satyamthedeveloper/Submissions_841418_SatyamKumar/blob/master/01.png?raw=true)
 
-
-Stage 3:
-
+![alt text](https://github.com/satyamthedeveloper/Submissions_841418_SatyamKumar/blob/master/02.png?raw=true)
